@@ -2,3 +2,10 @@ google-generativeai
 pyttsx3
 schedule
 engine
+PIL
+os
+time
+threading
+re
+speech_recognition
+MyAlarm
